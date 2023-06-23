@@ -14,7 +14,7 @@ _____
   
 _____
 
-## JPMC Forage SWE Lite Certificate - <a href="https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf"> PDF </a>
+## JPMorgan Chase Forage SWE Certificate - <a href="https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf"> PDF </a>
   --> See my work and GitHub pull request <a href="https://github.com/vagabond-systems/rewards-converter/pull/164"> ***here*** </a>
   
 <img width="650" alt="JPMCcert" src="https://github.com/mccnick/certificates/assets/91184284/ea8ee13a-f1a8-4df8-b92e-5d1c5b4cc742">
