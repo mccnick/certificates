@@ -9,7 +9,8 @@ I take these certifications from companies I respect and would ultimately work f
 _____
 
 ## Goldman Sachs SWE Certificate - <a href="https://github.com/mccnick/certificates/blob/main/Goldman%20Sachs%20SWE%20Certificate.pdf"> PDF </a>
-  --> In this certification, I studied and analyzed security of hashing algorithms (MD5, SHA-256, etc) and offered improvements to make the passwords more secure.
+  --> I studied and analyzed security of hashing algorithms (MD5, SHA-256, etc) and offered improvements to make the passwords more secure.
+  
 <img width="650" alt="GScert" src="https://github.com/mccnick/certificates/assets/91184284/1bc507f5-2a70-4c97-b037-7fbcd27dc2c8">
 
 _____
