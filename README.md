@@ -2,6 +2,8 @@
 
 Welcome! This page is for all of my Software Engineering Certificates through Forage. I found out about Forage through JPMorgan Chase recruiting. After completing my inital JPMorgan Chase certification, I saw multiple companies offer the same professional certification. These certifications take a few hours but offer real-world software engineering practices. They are free to students and offered by the respective companies through Forage.
 
+I take these certifications from companies I respect and would ultimately work for, in addition to increasing my knowledge of software engineering best practices.
+
 _____
 
 ## Wells Fargo SWE Certificate - <a href="https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf"> PDF </a>
