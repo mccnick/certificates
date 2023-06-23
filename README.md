@@ -1,6 +1,6 @@
  ## Nick McCullough - Software Engineering Certifications
 
-Welcome! This page is for all of my Software Engineering Certificates through Forage. I found out about Forage through JPMorgan Chase recruiting. After completing my inital JPMorgan Chase certification, I saw multiple companies offer the same professional certification. These certifications take a few hours but offer real-world software engineering virtual simulations. They are free to students and offered by the respective companies through Forage.
+Welcome! This page is for all of my Software Engineering Certificates through Forage. I found out about Forage through JPMorgan Chase recruiting. After completing my inital JPMorgan Chase certification, I saw multiple companies offer the same professional certification. These certifications take a few hours but offer real-world software engineering virtual experiences. They are free to students and offered by the respective companies through Forage.
 
 I take these certifications from companies I respect and would ultimately work for, in addition to increasing my knowledge of software engineering best practices. Please take a look below and see for yourself. Thanks! -Nick
 
