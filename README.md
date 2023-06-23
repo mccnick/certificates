@@ -4,6 +4,14 @@ Welcome! This page is for all of my Software Engineering Certificates through Fo
 
 I take these certifications from companies I respect and would ultimately work for, in addition to increasing my knowledge of software engineering best practices. Please take a look below and see for yourself. Thanks! -Nick
 
+
+
+_____
+
+## Goldman Sachs SWE Certificate - <a href="https://github.com/mccnick/certificates/blob/main/Goldman%20Sachs%20SWE%20Certificate.pdf"> PDF </a>
+  --> In this certification, I studied and analyzed security of hashing algorithms (MD5, SHA-256, etc) and offered improvements to make the passwords more secure.
+<img width="650" alt="GScert" src="https://github.com/mccnick/certificates/assets/91184284/1bc507f5-2a70-4c97-b037-7fbcd27dc2c8">
+
 _____
 
 ## Wells Fargo SWE Certificate - <a href="https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf"> PDF </a>
