@@ -6,6 +6,7 @@ I take these certifications from companies I respect and would ultimately work f
 
 
 
+
 _____
 
 ## JPMorgan Chase Forage SWE Certificate - <a href="https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf"> PDF </a>
